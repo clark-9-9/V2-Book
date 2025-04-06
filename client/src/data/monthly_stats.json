@@ -1,0 +1,4502 @@
+[
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 5,
+        "avg_price": 0,
+        "avg_rating": 4.58,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 1,
+        "avg_price": 4.99,
+        "avg_rating": 3.7,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.5,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 1,
+        "avg_price": 8.99,
+        "avg_rating": 0,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 2,
+        "avg_price": 0,
+        "avg_rating": 4.65,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.7,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 2,
+        "avg_price": 4.745,
+        "avg_rating": 2.35,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.2,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 5,
+        "avg_price": 3.7620000000000005,
+        "avg_rating": 4.279999999999999,
+        "bestseller_count": 3,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 2,
+        "avg_price": 4.99,
+        "avg_rating": 4,
+        "bestseller_count": 2,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.6,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 1,
+        "avg_price": 1.99,
+        "avg_rating": 4.8,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 5,
+        "avg_price": 0,
+        "avg_rating": 4.7,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 1,
+        "avg_price": 1.99,
+        "avg_rating": 4.7,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 7,
+        "avg_price": 0,
+        "avg_rating": 4.628571428571428,
+        "bestseller_count": 2,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-10-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 3,
+        "avg_price": 1.3266666666666667,
+        "avg_rating": 4.633333333333334,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 107,
+        "avg_price": 11.451028037383182,
+        "avg_rating": 2.8953271028037384,
+        "bestseller_count": 3,
+        "kindle_count": 26
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 187,
+        "avg_price": 11.438877005347587,
+        "avg_rating": 3.841176470588236,
+        "bestseller_count": 12,
+        "kindle_count": 20
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 39,
+        "avg_price": 8.511282051282052,
+        "avg_rating": 4.2384615384615385,
+        "bestseller_count": 9,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 171,
+        "avg_price": 15.832748538011662,
+        "avg_rating": 2.115204678362573,
+        "bestseller_count": 1,
+        "kindle_count": 80
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 235,
+        "avg_price": 8.409361702127665,
+        "avg_rating": 2.931063829787234,
+        "bestseller_count": 1,
+        "kindle_count": 133
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 156,
+        "avg_price": 9.644487179487188,
+        "avg_rating": 3.1519230769230764,
+        "bestseller_count": 1,
+        "kindle_count": 71
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 79,
+        "avg_price": 13.816202531645573,
+        "avg_rating": 2.9430379746835444,
+        "bestseller_count": 2,
+        "kindle_count": 24
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 66,
+        "avg_price": 15.261515151515159,
+        "avg_rating": 2.168181818181818,
+        "bestseller_count": 2,
+        "kindle_count": 20
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 15,
+        "avg_price": 0,
+        "avg_rating": 1.04,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 45,
+        "avg_price": 12.227111111111112,
+        "avg_rating": 3.9533333333333336,
+        "bestseller_count": 4,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 53,
+        "avg_price": 13.715283018867929,
+        "avg_rating": 3.6226415094339623,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 76,
+        "avg_price": 7.240263157894738,
+        "avg_rating": 4.169736842105263,
+        "bestseller_count": 2,
+        "kindle_count": 27
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 110,
+        "avg_price": 5.654363636363638,
+        "avg_rating": 4.157272727272727,
+        "bestseller_count": 2,
+        "kindle_count": 65
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 158,
+        "avg_price": 7.874050632911399,
+        "avg_rating": 4.450000000000001,
+        "bestseller_count": 16,
+        "kindle_count": 86
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 35,
+        "avg_price": 42.70371428571429,
+        "avg_rating": 2.06,
+        "bestseller_count": 0,
+        "kindle_count": 11
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 107,
+        "avg_price": 7.3071962616822494,
+        "avg_rating": 4.337383177570093,
+        "bestseller_count": 7,
+        "kindle_count": 39
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 32,
+        "avg_price": 13.266875,
+        "avg_rating": 4.21875,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 198,
+        "avg_price": 7.552323232323238,
+        "avg_rating": 3.585858585858585,
+        "bestseller_count": 3,
+        "kindle_count": 74
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 124,
+        "avg_price": 12.654354838709683,
+        "avg_rating": 3.605645161290322,
+        "bestseller_count": 12,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 33,
+        "avg_price": 8.48363636363636,
+        "avg_rating": 2.772727272727273,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 163,
+        "avg_price": 9.484355828220863,
+        "avg_rating": 4.14601226993865,
+        "bestseller_count": 11,
+        "kindle_count": 38
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 53,
+        "avg_price": 4.924339622641509,
+        "avg_rating": 4.447169811320754,
+        "bestseller_count": 2,
+        "kindle_count": 34
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 98,
+        "avg_price": 18.465816326530614,
+        "avg_rating": 3.313265306122449,
+        "bestseller_count": 4,
+        "kindle_count": 19
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 48,
+        "avg_price": 7.315,
+        "avg_rating": 4.183333333333334,
+        "bestseller_count": 2,
+        "kindle_count": 20
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 148,
+        "avg_price": 7.53067567567568,
+        "avg_rating": 3.526351351351351,
+        "bestseller_count": 2,
+        "kindle_count": 60
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 66,
+        "avg_price": 9.82909090909091,
+        "avg_rating": 3.536363636363636,
+        "bestseller_count": 1,
+        "kindle_count": 28
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 72,
+        "avg_price": 7.775972222222227,
+        "avg_rating": 4.204166666666667,
+        "bestseller_count": 2,
+        "kindle_count": 18
+    },
+    {
+        "month": "2023-09-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 130,
+        "avg_price": 8.448307692307697,
+        "avg_rating": 2.223076923076923,
+        "bestseller_count": 0,
+        "kindle_count": 49
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 79,
+        "avg_price": 14.884177215189878,
+        "avg_rating": 3.8658227848101263,
+        "bestseller_count": 1,
+        "kindle_count": 9
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 122,
+        "avg_price": 11.482377049180332,
+        "avg_rating": 4.477868852459016,
+        "bestseller_count": 6,
+        "kindle_count": 15
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 22,
+        "avg_price": 14.800454545454546,
+        "avg_rating": 4.327272727272727,
+        "bestseller_count": 3,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 145,
+        "avg_price": 22.348620689655082,
+        "avg_rating": 3.484137931034481,
+        "bestseller_count": 5,
+        "kindle_count": 42
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 193,
+        "avg_price": 8.71512953367876,
+        "avg_rating": 3.720725388601037,
+        "bestseller_count": 4,
+        "kindle_count": 106
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 106,
+        "avg_price": 10.413301886792459,
+        "avg_rating": 3.972641509433962,
+        "bestseller_count": 2,
+        "kindle_count": 38
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 67,
+        "avg_price": 16.753731343283587,
+        "avg_rating": 3.408955223880597,
+        "bestseller_count": 2,
+        "kindle_count": 15
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 73,
+        "avg_price": 26.130821917808223,
+        "avg_rating": 2.991780821917809,
+        "bestseller_count": 0,
+        "kindle_count": 19
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 7,
+        "avg_price": 0,
+        "avg_rating": 3.7142857142857144,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 27,
+        "avg_price": 11.398518518518518,
+        "avg_rating": 3.8592592592592587,
+        "bestseller_count": 3,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 14,
+        "avg_price": 15.275714285714285,
+        "avg_rating": 4.2,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 49,
+        "avg_price": 9.36530612244898,
+        "avg_rating": 4.085714285714285,
+        "bestseller_count": 1,
+        "kindle_count": 20
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 109,
+        "avg_price": 6.1338532110091775,
+        "avg_rating": 4.382568807339449,
+        "bestseller_count": 0,
+        "kindle_count": 67
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 101,
+        "avg_price": 8.272079207920799,
+        "avg_rating": 4.4039603960396025,
+        "bestseller_count": 4,
+        "kindle_count": 53
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 31,
+        "avg_price": 57.382258064516144,
+        "avg_rating": 2.3870967741935485,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 94,
+        "avg_price": 8.240000000000007,
+        "avg_rating": 4.254255319148935,
+        "bestseller_count": 3,
+        "kindle_count": 36
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 19,
+        "avg_price": 9.46526315789474,
+        "avg_rating": 4.742105263157894,
+        "bestseller_count": 2,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 149,
+        "avg_price": 8.006845637583897,
+        "avg_rating": 4.40268456375839,
+        "bestseller_count": 1,
+        "kindle_count": 49
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 61,
+        "avg_price": 13.993606557377053,
+        "avg_rating": 4.209836065573771,
+        "bestseller_count": 4,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 32,
+        "avg_price": 8.920937499999999,
+        "avg_rating": 3.7437499999999995,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 123,
+        "avg_price": 9.959918699186996,
+        "avg_rating": 4.516260162601626,
+        "bestseller_count": 6,
+        "kindle_count": 27
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 44,
+        "avg_price": 5.2138636363636355,
+        "avg_rating": 4.281818181818182,
+        "bestseller_count": 0,
+        "kindle_count": 26
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 78,
+        "avg_price": 28.491153846153846,
+        "avg_rating": 3.7641025641025636,
+        "bestseller_count": 4,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 31,
+        "avg_price": 5.764516129032257,
+        "avg_rating": 4.467741935483871,
+        "bestseller_count": 0,
+        "kindle_count": 21
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 92,
+        "avg_price": 9.222717391304354,
+        "avg_rating": 4.440217391304348,
+        "bestseller_count": 2,
+        "kindle_count": 23
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 64,
+        "avg_price": 12.432031250000001,
+        "avg_rating": 4.035937499999999,
+        "bestseller_count": 0,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 43,
+        "avg_price": 8.328139534883723,
+        "avg_rating": 4.420930232558138,
+        "bestseller_count": 2,
+        "kindle_count": 15
+    },
+    {
+        "month": "2023-08-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 102,
+        "avg_price": 9.069215686274514,
+        "avg_rating": 3.3578431372549025,
+        "bestseller_count": 3,
+        "kindle_count": 29
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 47,
+        "avg_price": 19.608723404255322,
+        "avg_rating": 3.6617021276595745,
+        "bestseller_count": 2,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 67,
+        "avg_price": 13.086119402985082,
+        "avg_rating": 4.331343283582089,
+        "bestseller_count": 4,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 23,
+        "avg_price": 16.033478260869565,
+        "avg_rating": 3.9782608695652173,
+        "bestseller_count": 3,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 119,
+        "avg_price": 20.122352941176448,
+        "avg_rating": 3.7243697478991593,
+        "bestseller_count": 1,
+        "kindle_count": 41
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 95,
+        "avg_price": 8.077578947368425,
+        "avg_rating": 4.069473684210527,
+        "bestseller_count": 1,
+        "kindle_count": 65
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 63,
+        "avg_price": 9.862539682539687,
+        "avg_rating": 4.477777777777777,
+        "bestseller_count": 2,
+        "kindle_count": 35
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 87,
+        "avg_price": 20.137586206896554,
+        "avg_rating": 3.588505747126437,
+        "bestseller_count": 0,
+        "kindle_count": 18
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 54,
+        "avg_price": 27.782962962962966,
+        "avg_rating": 3.1944444444444446,
+        "bestseller_count": 0,
+        "kindle_count": 17
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 2,
+        "avg_price": 0,
+        "avg_rating": 4,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 10,
+        "avg_price": 18.011,
+        "avg_rating": 3.8600000000000003,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 22,
+        "avg_price": 12.265454545454547,
+        "avg_rating": 3.8818181818181823,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 31,
+        "avg_price": 6.0767741935483865,
+        "avg_rating": 4.258064516129032,
+        "bestseller_count": 1,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 74,
+        "avg_price": 6.10527027027027,
+        "avg_rating": 4.422972972972972,
+        "bestseller_count": 1,
+        "kindle_count": 43
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 78,
+        "avg_price": 7.2793589743589795,
+        "avg_rating": 4.392307692307691,
+        "bestseller_count": 3,
+        "kindle_count": 39
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 22,
+        "avg_price": 36.71636363636364,
+        "avg_rating": 3,
+        "bestseller_count": 0,
+        "kindle_count": 9
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 61,
+        "avg_price": 8.277868852459022,
+        "avg_rating": 4.144262295081966,
+        "bestseller_count": 2,
+        "kindle_count": 25
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 12,
+        "avg_price": 11.154166666666669,
+        "avg_rating": 4.625,
+        "bestseller_count": 2,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 66,
+        "avg_price": 7.666212121212126,
+        "avg_rating": 4.225757575757576,
+        "bestseller_count": 1,
+        "kindle_count": 38
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 48,
+        "avg_price": 16.00770833333334,
+        "avg_rating": 4.437500000000001,
+        "bestseller_count": 3,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 19,
+        "avg_price": 15.416842105263155,
+        "avg_rating": 3.7473684210526317,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 68,
+        "avg_price": 9.56279411764706,
+        "avg_rating": 4.277941176470589,
+        "bestseller_count": 2,
+        "kindle_count": 19
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 28,
+        "avg_price": 5.785714285714286,
+        "avg_rating": 4.257142857142857,
+        "bestseller_count": 0,
+        "kindle_count": 19
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 74,
+        "avg_price": 28.848648648648645,
+        "avg_rating": 4.233783783783784,
+        "bestseller_count": 6,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 18,
+        "avg_price": 8.379444444444445,
+        "avg_rating": 4.405555555555556,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 59,
+        "avg_price": 9.216101694915256,
+        "avg_rating": 4.576271186440678,
+        "bestseller_count": 1,
+        "kindle_count": 21
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 34,
+        "avg_price": 10.105294117647057,
+        "avg_rating": 4.467647058823529,
+        "bestseller_count": 0,
+        "kindle_count": 15
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 17,
+        "avg_price": 7.344117647058824,
+        "avg_rating": 4.435294117647059,
+        "bestseller_count": 2,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-07-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 58,
+        "avg_price": 9.34948275862069,
+        "avg_rating": 3.5931034482758615,
+        "bestseller_count": 0,
+        "kindle_count": 24
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 41,
+        "avg_price": 17.201707317073172,
+        "avg_rating": 4.253658536585366,
+        "bestseller_count": 2,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 94,
+        "avg_price": 12.735531914893626,
+        "avg_rating": 4.461702127659572,
+        "bestseller_count": 6,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 23,
+        "avg_price": 18.367826086956523,
+        "avg_rating": 4.434782608695652,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 112,
+        "avg_price": 21.71982142857139,
+        "avg_rating": 3.5973214285714286,
+        "bestseller_count": 0,
+        "kindle_count": 35
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 117,
+        "avg_price": 9.51427350427351,
+        "avg_rating": 4.476068376068376,
+        "bestseller_count": 5,
+        "kindle_count": 51
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 89,
+        "avg_price": 10.681797752808997,
+        "avg_rating": 4.434831460674156,
+        "bestseller_count": 0,
+        "kindle_count": 38
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 51,
+        "avg_price": 20.838627450980397,
+        "avg_rating": 3.5137254901960784,
+        "bestseller_count": 1,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 68,
+        "avg_price": 25.568382352941185,
+        "avg_rating": 3.011764705882353,
+        "bestseller_count": 3,
+        "kindle_count": 25
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 3,
+        "avg_price": 0,
+        "avg_rating": 2.9666666666666663,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 19,
+        "avg_price": 18.158421052631578,
+        "avg_rating": 4.38421052631579,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 26,
+        "avg_price": 17.669999999999998,
+        "avg_rating": 4.392307692307693,
+        "bestseller_count": 3,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 35,
+        "avg_price": 8.501142857142858,
+        "avg_rating": 4.268571428571429,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 70,
+        "avg_price": 6.4242857142857135,
+        "avg_rating": 4.324285714285713,
+        "bestseller_count": 2,
+        "kindle_count": 44
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 71,
+        "avg_price": 8.836197183098598,
+        "avg_rating": 4.359154929577464,
+        "bestseller_count": 3,
+        "kindle_count": 29
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 30,
+        "avg_price": 37.18533333333333,
+        "avg_rating": 2.83,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 81,
+        "avg_price": 8.304691358024698,
+        "avg_rating": 4.197530864197531,
+        "bestseller_count": 1,
+        "kindle_count": 36
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 7,
+        "avg_price": 11.989999999999998,
+        "avg_rating": 4.642857142857143,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 67,
+        "avg_price": 7.912238805970154,
+        "avg_rating": 4.432835820895523,
+        "bestseller_count": 0,
+        "kindle_count": 22
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 68,
+        "avg_price": 17.668823529411767,
+        "avg_rating": 3.9573529411764707,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 25,
+        "avg_price": 24.2264,
+        "avg_rating": 3.4679999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 54,
+        "avg_price": 11.192592592592595,
+        "avg_rating": 4.624074074074074,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 22,
+        "avg_price": 4.11,
+        "avg_rating": 4.3954545454545455,
+        "bestseller_count": 0,
+        "kindle_count": 17
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 73,
+        "avg_price": 31.832602739726017,
+        "avg_rating": 4.234246575342466,
+        "bestseller_count": 3,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 11,
+        "avg_price": 7.717272727272728,
+        "avg_rating": 4.345454545454546,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 51,
+        "avg_price": 11.547843137254903,
+        "avg_rating": 4.601960784313725,
+        "bestseller_count": 1,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 41,
+        "avg_price": 11.271219512195124,
+        "avg_rating": 4.253658536585366,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 26,
+        "avg_price": 7.886153846153848,
+        "avg_rating": 4.361538461538461,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-06-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 74,
+        "avg_price": 10.68891891891892,
+        "avg_rating": 3.885135135135135,
+        "bestseller_count": 0,
+        "kindle_count": 19
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 60,
+        "avg_price": 12.821333333333333,
+        "avg_rating": 4.216666666666667,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 105,
+        "avg_price": 12.896095238095246,
+        "avg_rating": 4.466666666666667,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 19,
+        "avg_price": 30.277368421052635,
+        "avg_rating": 4.563157894736843,
+        "bestseller_count": 2,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 111,
+        "avg_price": 23.75468468468464,
+        "avg_rating": 4.046846846846847,
+        "bestseller_count": 1,
+        "kindle_count": 25
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 93,
+        "avg_price": 9.321075268817205,
+        "avg_rating": 4.420430107526882,
+        "bestseller_count": 4,
+        "kindle_count": 43
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 80,
+        "avg_price": 10.283625000000006,
+        "avg_rating": 4.4350000000000005,
+        "bestseller_count": 3,
+        "kindle_count": 33
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 58,
+        "avg_price": 19.308103448275865,
+        "avg_rating": 4.232758620689655,
+        "bestseller_count": 1,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 45,
+        "avg_price": 24.110222222222223,
+        "avg_rating": 3.2399999999999998,
+        "bestseller_count": 0,
+        "kindle_count": 12
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 7,
+        "avg_price": 0,
+        "avg_rating": 3.814285714285714,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 26,
+        "avg_price": 33.02730769230769,
+        "avg_rating": 4.4423076923076925,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 29,
+        "avg_price": 16.144137931034482,
+        "avg_rating": 4.13103448275862,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 29,
+        "avg_price": 9.337586206896555,
+        "avg_rating": 4.30344827586207,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 68,
+        "avg_price": 6.979411764705881,
+        "avg_rating": 4.323529411764706,
+        "bestseller_count": 1,
+        "kindle_count": 36
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 59,
+        "avg_price": 9.896610169491531,
+        "avg_rating": 4.345762711864407,
+        "bestseller_count": 2,
+        "kindle_count": 19
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 37,
+        "avg_price": 35.63405405405406,
+        "avg_rating": 3.086486486486486,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 57,
+        "avg_price": 7.6077192982456205,
+        "avg_rating": 4.19298245614035,
+        "bestseller_count": 1,
+        "kindle_count": 27
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 16,
+        "avg_price": 10.723125,
+        "avg_rating": 4.55625,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 87,
+        "avg_price": 9.374827586206903,
+        "avg_rating": 4.591954022988504,
+        "bestseller_count": 0,
+        "kindle_count": 21
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 63,
+        "avg_price": 13.774603174603179,
+        "avg_rating": 4.48888888888889,
+        "bestseller_count": 2,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 15,
+        "avg_price": 15.107333333333335,
+        "avg_rating": 4.066666666666666,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 56,
+        "avg_price": 9.356428571428571,
+        "avg_rating": 4.555357142857142,
+        "bestseller_count": 2,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 16,
+        "avg_price": 5.4275,
+        "avg_rating": 4.4625,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 66,
+        "avg_price": 29.004696969696973,
+        "avg_rating": 3.719696969696969,
+        "bestseller_count": 3,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 25,
+        "avg_price": 4.3104,
+        "avg_rating": 4.3839999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 45,
+        "avg_price": 9.837777777777777,
+        "avg_rating": 4.708888888888889,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 30,
+        "avg_price": 9.955666666666666,
+        "avg_rating": 4.576666666666667,
+        "bestseller_count": 0,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 32,
+        "avg_price": 8.4884375,
+        "avg_rating": 4.371875,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-05-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 72,
+        "avg_price": 10.11180555555556,
+        "avg_rating": 4.061111111111111,
+        "bestseller_count": 1,
+        "kindle_count": 17
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 32,
+        "avg_price": 15.127187500000002,
+        "avg_rating": 4.428125,
+        "bestseller_count": 2,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 84,
+        "avg_price": 11.090000000000007,
+        "avg_rating": 4.467857142857143,
+        "bestseller_count": 2,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 19,
+        "avg_price": 21.413157894736845,
+        "avg_rating": 4.573684210526316,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 91,
+        "avg_price": 25.976263736263707,
+        "avg_rating": 4.06923076923077,
+        "bestseller_count": 1,
+        "kindle_count": 21
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 90,
+        "avg_price": 10.727222222222226,
+        "avg_rating": 4.431111111111111,
+        "bestseller_count": 2,
+        "kindle_count": 31
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 70,
+        "avg_price": 10.927285714285722,
+        "avg_rating": 4.57142857142857,
+        "bestseller_count": 1,
+        "kindle_count": 27
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 63,
+        "avg_price": 23.45809523809524,
+        "avg_rating": 4.330158730158731,
+        "bestseller_count": 1,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 45,
+        "avg_price": 33.226888888888894,
+        "avg_rating": 3.1133333333333333,
+        "bestseller_count": 2,
+        "kindle_count": 17
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 2,
+        "avg_price": 0,
+        "avg_rating": 4.25,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 21,
+        "avg_price": 11.140476190476189,
+        "avg_rating": 4.671428571428571,
+        "bestseller_count": 3,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 28,
+        "avg_price": 14.359642857142855,
+        "avg_rating": 4.375,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 29,
+        "avg_price": 8.213103448275861,
+        "avg_rating": 4.337931034482759,
+        "bestseller_count": 0,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 41,
+        "avg_price": 6.672439024390243,
+        "avg_rating": 4.402439024390244,
+        "bestseller_count": 0,
+        "kindle_count": 22
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 49,
+        "avg_price": 8.627142857142863,
+        "avg_rating": 4.336734693877552,
+        "bestseller_count": 2,
+        "kindle_count": 21
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 24,
+        "avg_price": 42.60125,
+        "avg_rating": 3.6999999999999997,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 44,
+        "avg_price": 8.955227272727278,
+        "avg_rating": 4.279545454545454,
+        "bestseller_count": 0,
+        "kindle_count": 18
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 9,
+        "avg_price": 23.393333333333334,
+        "avg_rating": 4.577777777777778,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 65,
+        "avg_price": 10.774923076923084,
+        "avg_rating": 4.484615384615386,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 52,
+        "avg_price": 16.840961538461542,
+        "avg_rating": 4.398076923076925,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 20,
+        "avg_price": 16.921499999999998,
+        "avg_rating": 3.755,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 52,
+        "avg_price": 10.464615384615387,
+        "avg_rating": 4.630769230769231,
+        "bestseller_count": 3,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 17,
+        "avg_price": 5.050588235294118,
+        "avg_rating": 4.411764705882353,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 63,
+        "avg_price": 29.70730158730159,
+        "avg_rating": 4.333333333333335,
+        "bestseller_count": 3,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 14,
+        "avg_price": 6.240714285714286,
+        "avg_rating": 4.321428571428571,
+        "bestseller_count": 0,
+        "kindle_count": 9
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 32,
+        "avg_price": 11.140937499999998,
+        "avg_rating": 4.634375,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 30,
+        "avg_price": 14.242333333333335,
+        "avg_rating": 4.046666666666667,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 15,
+        "avg_price": 6.35,
+        "avg_rating": 4.393333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-04-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 66,
+        "avg_price": 11.355909090909092,
+        "avg_rating": 4.071212121212121,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 36,
+        "avg_price": 14.158888888888889,
+        "avg_rating": 4.397222222222222,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 65,
+        "avg_price": 12.590153846153854,
+        "avg_rating": 4.43846153846154,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 18,
+        "avg_price": 16.803333333333327,
+        "avg_rating": 4.355555555555556,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 101,
+        "avg_price": 22.881782178217804,
+        "avg_rating": 4.057425742574258,
+        "bestseller_count": 1,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 75,
+        "avg_price": 9.789200000000003,
+        "avg_rating": 4.4639999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 39
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 59,
+        "avg_price": 10.603389830508478,
+        "avg_rating": 4.442372881355932,
+        "bestseller_count": 1,
+        "kindle_count": 21
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 56,
+        "avg_price": 19.494285714285716,
+        "avg_rating": 4.082142857142856,
+        "bestseller_count": 2,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 53,
+        "avg_price": 16.09094339622642,
+        "avg_rating": 3.741509433962263,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 4,
+        "avg_price": 0,
+        "avg_rating": 4.35,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 22,
+        "avg_price": 15.965909090909093,
+        "avg_rating": 4.5636363636363635,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 17,
+        "avg_price": 14.794705882352941,
+        "avg_rating": 4.3882352941176475,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 26,
+        "avg_price": 10.070384615384617,
+        "avg_rating": 4.273076923076923,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 57,
+        "avg_price": 7.240526315789475,
+        "avg_rating": 4.4035087719298245,
+        "bestseller_count": 0,
+        "kindle_count": 29
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 39,
+        "avg_price": 8.411282051282056,
+        "avg_rating": 4.405128205128205,
+        "bestseller_count": 2,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 26,
+        "avg_price": 64.88576923076924,
+        "avg_rating": 3.9500000000000006,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 41,
+        "avg_price": 8.14024390243903,
+        "avg_rating": 4.275609756097562,
+        "bestseller_count": 2,
+        "kindle_count": 25
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 12,
+        "avg_price": 12.813333333333333,
+        "avg_rating": 4.675,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 61,
+        "avg_price": 10.459508196721314,
+        "avg_rating": 4.439344262295083,
+        "bestseller_count": 0,
+        "kindle_count": 17
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 42,
+        "avg_price": 16.759523809523813,
+        "avg_rating": 4.4,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 18,
+        "avg_price": 15.076666666666666,
+        "avg_rating": 3.561111111111111,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 51,
+        "avg_price": 10.808627450980392,
+        "avg_rating": 4.682352941176471,
+        "bestseller_count": 1,
+        "kindle_count": 12
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 7,
+        "avg_price": 4.847142857142858,
+        "avg_rating": 4.371428571428572,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 71,
+        "avg_price": 36.166338028168994,
+        "avg_rating": 4.178873239436619,
+        "bestseller_count": 2,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 13,
+        "avg_price": 9.220769230769232,
+        "avg_rating": 4.423076923076923,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 29,
+        "avg_price": 10.081724137931033,
+        "avg_rating": 4.6000000000000005,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 30,
+        "avg_price": 10.06033333333333,
+        "avg_rating": 4.489999999999999,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 16,
+        "avg_price": 7.362499999999999,
+        "avg_rating": 4.30625,
+        "bestseller_count": 1,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-03-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 73,
+        "avg_price": 11.060547945205483,
+        "avg_rating": 4.176712328767123,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 35,
+        "avg_price": 13.164285714285715,
+        "avg_rating": 4.442857142857143,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 78,
+        "avg_price": 12.203205128205134,
+        "avg_rating": 4.432051282051281,
+        "bestseller_count": 3,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 17,
+        "avg_price": 15.400588235294117,
+        "avg_rating": 4.658823529411766,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 86,
+        "avg_price": 23.08732558139535,
+        "avg_rating": 4.162790697674419,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 36,
+        "avg_price": 9.455,
+        "avg_rating": 4.430555555555555,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 38,
+        "avg_price": 9.845526315789476,
+        "avg_rating": 4.39736842105263,
+        "bestseller_count": 2,
+        "kindle_count": 15
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 36,
+        "avg_price": 22.800000000000004,
+        "avg_rating": 4.1499999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 32,
+        "avg_price": 26.125937500000003,
+        "avg_rating": 4.025,
+        "bestseller_count": 0,
+        "kindle_count": 12
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.2,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 21,
+        "avg_price": 19.95476190476191,
+        "avg_rating": 4.447619047619048,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 19,
+        "avg_price": 14.571578947368419,
+        "avg_rating": 4.4526315789473685,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 18,
+        "avg_price": 7.961111111111112,
+        "avg_rating": 4.166666666666667,
+        "bestseller_count": 2,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 41,
+        "avg_price": 6.656341463414633,
+        "avg_rating": 4.304878048780487,
+        "bestseller_count": 0,
+        "kindle_count": 26
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 20,
+        "avg_price": 10.415000000000003,
+        "avg_rating": 4.335,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 24,
+        "avg_price": 39.736250000000005,
+        "avg_rating": 4.058333333333334,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 26,
+        "avg_price": 7.956153846153848,
+        "avg_rating": 4.226923076923078,
+        "bestseller_count": 0,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 4,
+        "avg_price": 12.9925,
+        "avg_rating": 4.575,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 57,
+        "avg_price": 11.025087719298249,
+        "avg_rating": 4.608771929824563,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 55,
+        "avg_price": 15.79218181818182,
+        "avg_rating": 4.343636363636365,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 22,
+        "avg_price": 13.225000000000001,
+        "avg_rating": 4.172727272727273,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 34,
+        "avg_price": 10.80764705882353,
+        "avg_rating": 4.688235294117647,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 10,
+        "avg_price": 3.9370000000000003,
+        "avg_rating": 4.4,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 48,
+        "avg_price": 34.900000000000006,
+        "avg_rating": 4.214583333333334,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 9,
+        "avg_price": 5.213333333333334,
+        "avg_rating": 4.355555555555556,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 30,
+        "avg_price": 8.674333333333333,
+        "avg_rating": 4.683333333333333,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 16,
+        "avg_price": 15.411249999999999,
+        "avg_rating": 4.625,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 17,
+        "avg_price": 6.722352941176471,
+        "avg_rating": 4.31764705882353,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-02-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 39,
+        "avg_price": 10.007179487179487,
+        "avg_rating": 4.2615384615384615,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 33,
+        "avg_price": 21.173030303030306,
+        "avg_rating": 3.836363636363636,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 58,
+        "avg_price": 11.646896551724144,
+        "avg_rating": 4.432758620689655,
+        "bestseller_count": 2,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 15,
+        "avg_price": 15.030666666666665,
+        "avg_rating": 4.393333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 70,
+        "avg_price": 22.51414285714286,
+        "avg_rating": 4.171428571428571,
+        "bestseller_count": 2,
+        "kindle_count": 13
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 40,
+        "avg_price": 12.420499999999999,
+        "avg_rating": 4.3125,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 46,
+        "avg_price": 13.451086956521744,
+        "avg_rating": 4.271739130434783,
+        "bestseller_count": 0,
+        "kindle_count": 11
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 43,
+        "avg_price": 22.33255813953489,
+        "avg_rating": 4.093023255813954,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 32,
+        "avg_price": 29.178124999999998,
+        "avg_rating": 3.790625,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 2,
+        "avg_price": 0,
+        "avg_rating": 4.6,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 18,
+        "avg_price": 19.962777777777777,
+        "avg_rating": 4.1,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 22,
+        "avg_price": 13.860454545454546,
+        "avg_rating": 4.3909090909090915,
+        "bestseller_count": 2,
+        "kindle_count": 1
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 19,
+        "avg_price": 7.212631578947369,
+        "avg_rating": 4.2894736842105265,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 46,
+        "avg_price": 6.551304347826086,
+        "avg_rating": 4.360869565217391,
+        "bestseller_count": 0,
+        "kindle_count": 24
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 19,
+        "avg_price": 7.838421052631579,
+        "avg_rating": 4.300000000000001,
+        "bestseller_count": 0,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 21,
+        "avg_price": 57.48476190476191,
+        "avg_rating": 3.2714285714285714,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 43,
+        "avg_price": 9.257441860465123,
+        "avg_rating": 4.1976744186046515,
+        "bestseller_count": 0,
+        "kindle_count": 14
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 14,
+        "avg_price": 13.812857142857144,
+        "avg_rating": 4.392857142857143,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 55,
+        "avg_price": 8.164181818181822,
+        "avg_rating": 4.523636363636364,
+        "bestseller_count": 0,
+        "kindle_count": 15
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 60,
+        "avg_price": 21.59333333333334,
+        "avg_rating": 4.015,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 28,
+        "avg_price": 22.037499999999998,
+        "avg_rating": 4.2178571428571425,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 43,
+        "avg_price": 11.158139534883723,
+        "avg_rating": 4.68139534883721,
+        "bestseller_count": 3,
+        "kindle_count": 10
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 10,
+        "avg_price": 5.391,
+        "avg_rating": 4.4399999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 67,
+        "avg_price": 37.08447761194028,
+        "avg_rating": 4.038805970149255,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 12,
+        "avg_price": 8.655833333333334,
+        "avg_rating": 4.3500000000000005,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 34,
+        "avg_price": 10.174117647058821,
+        "avg_rating": 4.623529411764705,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 13,
+        "avg_price": 14.048461538461536,
+        "avg_rating": 4.407692307692308,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 22,
+        "avg_price": 8.669545454545453,
+        "avg_rating": 4.3,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2023-01-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 44,
+        "avg_price": 10.681363636363637,
+        "avg_rating": 4.249999999999999,
+        "bestseller_count": 1,
+        "kindle_count": 11
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 31,
+        "avg_price": 15.304838709677421,
+        "avg_rating": 4.45483870967742,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 43,
+        "avg_price": 10.082325581395354,
+        "avg_rating": 4.467441860465118,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 6,
+        "avg_price": 13.824999999999998,
+        "avg_rating": 4.766666666666667,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 71,
+        "avg_price": 24.280563380281688,
+        "avg_rating": 4.154929577464789,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 53,
+        "avg_price": 12.006037735849059,
+        "avg_rating": 4.483018867924529,
+        "bestseller_count": 1,
+        "kindle_count": 16
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 38,
+        "avg_price": 12.478157894736848,
+        "avg_rating": 4.513157894736842,
+        "bestseller_count": 0,
+        "kindle_count": 9
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 39,
+        "avg_price": 18.523589743589746,
+        "avg_rating": 4.212820512820513,
+        "bestseller_count": 2,
+        "kindle_count": 9
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 56,
+        "avg_price": 19.578928571428577,
+        "avg_rating": 3.9,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 13,
+        "avg_price": 17.529230769230768,
+        "avg_rating": 4.584615384615384,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 17,
+        "avg_price": 20.271176470588237,
+        "avg_rating": 4.352941176470588,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 20,
+        "avg_price": 9.6385,
+        "avg_rating": 4.265,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 29,
+        "avg_price": 6.369655172413794,
+        "avg_rating": 4.424137931034483,
+        "bestseller_count": 0,
+        "kindle_count": 21
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 8,
+        "avg_price": 6.990000000000001,
+        "avg_rating": 4.475,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 18,
+        "avg_price": 58.77055555555556,
+        "avg_rating": 3.3444444444444446,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 7,
+        "avg_price": 7.847142857142857,
+        "avg_rating": 4.300000000000001,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 12,
+        "avg_price": 21.573333333333334,
+        "avg_rating": 4.608333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 45,
+        "avg_price": 7.507777777777778,
+        "avg_rating": 4.48888888888889,
+        "bestseller_count": 0,
+        "kindle_count": 25
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 45,
+        "avg_price": 27.510666666666673,
+        "avg_rating": 4.093333333333333,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 38,
+        "avg_price": 21.088947368421056,
+        "avg_rating": 4.055263157894737,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 20,
+        "avg_price": 14.2835,
+        "avg_rating": 4.72,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 2,
+        "avg_price": 5.49,
+        "avg_rating": 4.3,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 61,
+        "avg_price": 29.744590163934433,
+        "avg_rating": 4.214754098360656,
+        "bestseller_count": 3,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 3,
+        "avg_price": 2.9766666666666666,
+        "avg_rating": 4.5,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 24,
+        "avg_price": 10.591249999999999,
+        "avg_rating": 4.304166666666666,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 20,
+        "avg_price": 16.679,
+        "avg_rating": 4.55,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 7,
+        "avg_price": 10.275714285714287,
+        "avg_rating": 4.3428571428571425,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-12-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 52,
+        "avg_price": 10.00923076923077,
+        "avg_rating": 4.298076923076923,
+        "bestseller_count": 2,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 46,
+        "avg_price": 13.070217391304348,
+        "avg_rating": 4.267391304347826,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 72,
+        "avg_price": 13.163750000000007,
+        "avg_rating": 4.431944444444445,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 9,
+        "avg_price": 16.432222222222222,
+        "avg_rating": 4.588888888888889,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 79,
+        "avg_price": 23.46392405063291,
+        "avg_rating": 4.341772151898734,
+        "bestseller_count": 1,
+        "kindle_count": 11
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 76,
+        "avg_price": 11.36618421052632,
+        "avg_rating": 4.546052631578948,
+        "bestseller_count": 0,
+        "kindle_count": 15
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 72,
+        "avg_price": 11.611666666666672,
+        "avg_rating": 4.57638888888889,
+        "bestseller_count": 3,
+        "kindle_count": 25
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 42,
+        "avg_price": 22.241428571428578,
+        "avg_rating": 4.330952380952381,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 47,
+        "avg_price": 25.19744680851064,
+        "avg_rating": 4.0638297872340425,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.9,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 9,
+        "avg_price": 12.95111111111111,
+        "avg_rating": 4.555555555555555,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 23,
+        "avg_price": 12.650434782608695,
+        "avg_rating": 4.356521739130435,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 22,
+        "avg_price": 10.576818181818181,
+        "avg_rating": 4.427272727272728,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 28,
+        "avg_price": 6.527500000000002,
+        "avg_rating": 4.417857142857143,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 14,
+        "avg_price": 7.909285714285715,
+        "avg_rating": 4.392857142857143,
+        "bestseller_count": 2,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 30,
+        "avg_price": 59.49666666666667,
+        "avg_rating": 3.81,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 18,
+        "avg_price": 5.573888888888887,
+        "avg_rating": 4.249999999999999,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 8,
+        "avg_price": 21.91375,
+        "avg_rating": 4.6125,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 49,
+        "avg_price": 10.528775510204085,
+        "avg_rating": 4.6020408163265305,
+        "bestseller_count": 1,
+        "kindle_count": 15
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 39,
+        "avg_price": 15.780769230769234,
+        "avg_rating": 4.230769230769231,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 26,
+        "avg_price": 16.77730769230769,
+        "avg_rating": 3.8499999999999996,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 36,
+        "avg_price": 10.953611111111108,
+        "avg_rating": 4.711111111111111,
+        "bestseller_count": 2,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 6,
+        "avg_price": 5.658333333333334,
+        "avg_rating": 4.316666666666667,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 49,
+        "avg_price": 32.39795918367347,
+        "avg_rating": 4.136734693877551,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 3,
+        "avg_price": 9.323333333333332,
+        "avg_rating": 4.533333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 34,
+        "avg_price": 9.016764705882352,
+        "avg_rating": 4.579411764705882,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 31,
+        "avg_price": 11.027741935483869,
+        "avg_rating": 4.580645161290323,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 20,
+        "avg_price": 10.283499999999998,
+        "avg_rating": 4.445,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-11-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 77,
+        "avg_price": 11.287792207792211,
+        "avg_rating": 4.458441558441559,
+        "bestseller_count": 4,
+        "kindle_count": 30
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 46,
+        "avg_price": 14.753043478260873,
+        "avg_rating": 4.232608695652174,
+        "bestseller_count": 2,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 66,
+        "avg_price": 12.40015151515152,
+        "avg_rating": 4.48939393939394,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 17,
+        "avg_price": 11.903529411764705,
+        "avg_rating": 4.576470588235294,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 66,
+        "avg_price": 23.800303030303034,
+        "avg_rating": 4.3909090909090915,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 77,
+        "avg_price": 13.184675324675329,
+        "avg_rating": 4.585714285714285,
+        "bestseller_count": 2,
+        "kindle_count": 19
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 65,
+        "avg_price": 11.428923076923084,
+        "avg_rating": 4.46,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 48,
+        "avg_price": 24.34500000000001,
+        "avg_rating": 4.135416666666667,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 35,
+        "avg_price": 25.234857142857148,
+        "avg_rating": 4.065714285714285,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 1,
+        "avg_price": 0,
+        "avg_rating": 4.3,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 15,
+        "avg_price": 15.47,
+        "avg_rating": 4.553333333333333,
+        "bestseller_count": 2,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 20,
+        "avg_price": 13.3345,
+        "avg_rating": 4.495,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 19,
+        "avg_price": 9.973157894736842,
+        "avg_rating": 4.568421052631579,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 22,
+        "avg_price": 7.989999999999998,
+        "avg_rating": 4.381818181818182,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 19,
+        "avg_price": 10.200526315789475,
+        "avg_rating": 4.41578947368421,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 24,
+        "avg_price": 46.84708333333333,
+        "avg_rating": 3.8375000000000004,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 15,
+        "avg_price": 7.131999999999999,
+        "avg_rating": 4.180000000000001,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 8,
+        "avg_price": 10.67875,
+        "avg_rating": 4.6,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 67,
+        "avg_price": 9.047910447761199,
+        "avg_rating": 4.508955223880597,
+        "bestseller_count": 1,
+        "kindle_count": 24
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 44,
+        "avg_price": 15.855909090909092,
+        "avg_rating": 4.4363636363636365,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 24,
+        "avg_price": 20.520833333333332,
+        "avg_rating": 3.0208333333333335,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 38,
+        "avg_price": 10.504736842105261,
+        "avg_rating": 4.697368421052632,
+        "bestseller_count": 0,
+        "kindle_count": 9
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 3,
+        "avg_price": 4.99,
+        "avg_rating": 4.333333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 48,
+        "avg_price": 41.95083333333334,
+        "avg_rating": 4.502083333333334,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 11,
+        "avg_price": 5.90090909090909,
+        "avg_rating": 4.3999999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 38,
+        "avg_price": 9.898157894736842,
+        "avg_rating": 4.652631578947369,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 34,
+        "avg_price": 11.877647058823529,
+        "avg_rating": 4.511764705882352,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 8,
+        "avg_price": 8.3025,
+        "avg_rating": 4.4,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-10-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 71,
+        "avg_price": 11.33267605633803,
+        "avg_rating": 4.474647887323942,
+        "bestseller_count": 6,
+        "kindle_count": 30
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 49,
+        "avg_price": 11.398163265306122,
+        "avg_rating": 4.3999999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 66,
+        "avg_price": 11.659696969696975,
+        "avg_rating": 4.486363636363635,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 14,
+        "avg_price": 22.852857142857143,
+        "avg_rating": 4.564285714285714,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 77,
+        "avg_price": 23.825974025974027,
+        "avg_rating": 4.41038961038961,
+        "bestseller_count": 2,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 82,
+        "avg_price": 11.202439024390246,
+        "avg_rating": 4.5182926829268295,
+        "bestseller_count": 2,
+        "kindle_count": 28
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 63,
+        "avg_price": 11.83222222222223,
+        "avg_rating": 4.422222222222221,
+        "bestseller_count": 1,
+        "kindle_count": 24
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 33,
+        "avg_price": 21.270000000000003,
+        "avg_rating": 4.315151515151516,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 46,
+        "avg_price": 17.247173913043483,
+        "avg_rating": 3.589130434782608,
+        "bestseller_count": 2,
+        "kindle_count": 10
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 4,
+        "avg_price": 0,
+        "avg_rating": 4.325,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 19,
+        "avg_price": 16.94,
+        "avg_rating": 4.5736842105263165,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 31,
+        "avg_price": 11.101612903225808,
+        "avg_rating": 4.477419354838709,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 30,
+        "avg_price": 9.35,
+        "avg_rating": 4.293333333333334,
+        "bestseller_count": 0,
+        "kindle_count": 10
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 19,
+        "avg_price": 6.9357894736842125,
+        "avg_rating": 4.331578947368421,
+        "bestseller_count": 0,
+        "kindle_count": 9
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 23,
+        "avg_price": 6.990869565217392,
+        "avg_rating": 4.334782608695653,
+        "bestseller_count": 3,
+        "kindle_count": 9
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 22,
+        "avg_price": 68.45181818181818,
+        "avg_rating": 4.027272727272727,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 22,
+        "avg_price": 9.081818181818184,
+        "avg_rating": 4.29090909090909,
+        "bestseller_count": 1,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 10,
+        "avg_price": 17.191,
+        "avg_rating": 4.63,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 58,
+        "avg_price": 10.93810344827587,
+        "avg_rating": 4.553448275862068,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 50,
+        "avg_price": 14.622000000000003,
+        "avg_rating": 4.3839999999999995,
+        "bestseller_count": 3,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 26,
+        "avg_price": 20.268846153846155,
+        "avg_rating": 3.430769230769231,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 43,
+        "avg_price": 9.869302325581396,
+        "avg_rating": 4.723255813953489,
+        "bestseller_count": 2,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 8,
+        "avg_price": 7.89625,
+        "avg_rating": 4.3,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 61,
+        "avg_price": 38.31295081967212,
+        "avg_rating": 4.370491803278688,
+        "bestseller_count": 4,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 9,
+        "avg_price": 6.325555555555556,
+        "avg_rating": 4.377777777777777,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 50,
+        "avg_price": 9.2694,
+        "avg_rating": 4.571999999999999,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 15,
+        "avg_price": 10.416666666666666,
+        "avg_rating": 4.6466666666666665,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 19,
+        "avg_price": 8.569473684210527,
+        "avg_rating": 4.484210526315789,
+        "bestseller_count": 3,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-09-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 64,
+        "avg_price": 10.924687500000001,
+        "avg_rating": 4.475,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 37,
+        "avg_price": 14.72810810810811,
+        "avg_rating": 4.264864864864864,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 60,
+        "avg_price": 11.334500000000004,
+        "avg_rating": 4.484999999999999,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 12,
+        "avg_price": 20.4675,
+        "avg_rating": 4.2,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 73,
+        "avg_price": 28.162054794520554,
+        "avg_rating": 4.428767123287673,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 70,
+        "avg_price": 11.808000000000002,
+        "avg_rating": 4.481428571428571,
+        "bestseller_count": 1,
+        "kindle_count": 14
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 53,
+        "avg_price": 10.081886792452835,
+        "avg_rating": 4.518867924528302,
+        "bestseller_count": 1,
+        "kindle_count": 21
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 42,
+        "avg_price": 28.635238095238098,
+        "avg_rating": 4.145238095238096,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 34,
+        "avg_price": 26.271764705882358,
+        "avg_rating": 3.661764705882352,
+        "bestseller_count": 1,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 10,
+        "avg_price": 9.34,
+        "avg_rating": 4.62,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 12,
+        "avg_price": 11.781666666666666,
+        "avg_rating": 4.625,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 20,
+        "avg_price": 9.419,
+        "avg_rating": 4.325000000000001,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 18,
+        "avg_price": 8.406666666666668,
+        "avg_rating": 4.411111111111111,
+        "bestseller_count": 0,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 26,
+        "avg_price": 8.11423076923077,
+        "avg_rating": 4.403846153846153,
+        "bestseller_count": 1,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 19,
+        "avg_price": 34.050526315789476,
+        "avg_rating": 4.152631578947369,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 17,
+        "avg_price": 8.917058823529413,
+        "avg_rating": 4.276470588235294,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 7,
+        "avg_price": 11.991428571428573,
+        "avg_rating": 4.571428571428571,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 43,
+        "avg_price": 8.94069767441861,
+        "avg_rating": 4.351162790697674,
+        "bestseller_count": 1,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 33,
+        "avg_price": 17.32030303030303,
+        "avg_rating": 4.321212121212122,
+        "bestseller_count": 2,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 18,
+        "avg_price": 18.04222222222222,
+        "avg_rating": 4.077777777777778,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 26,
+        "avg_price": 10.633076923076922,
+        "avg_rating": 4.669230769230769,
+        "bestseller_count": 2,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 4,
+        "avg_price": 4.4925,
+        "avg_rating": 4.5,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 53,
+        "avg_price": 48.396415094339595,
+        "avg_rating": 4.422641509433962,
+        "bestseller_count": 1,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 6,
+        "avg_price": 9.491666666666667,
+        "avg_rating": 4.483333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 33,
+        "avg_price": 10.706060606060607,
+        "avg_rating": 4.642424242424242,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 19,
+        "avg_price": 9.861052631578946,
+        "avg_rating": 4.563157894736841,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 21,
+        "avg_price": 8.61047619047619,
+        "avg_rating": 4.457142857142857,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-08-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 59,
+        "avg_price": 10.341694915254239,
+        "avg_rating": 4.396610169491525,
+        "bestseller_count": 0,
+        "kindle_count": 19
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 27,
+        "avg_price": 16.62,
+        "avg_rating": 4.485185185185185,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 36,
+        "avg_price": 9.033333333333337,
+        "avg_rating": 4.3388888888888895,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 10,
+        "avg_price": 20.345,
+        "avg_rating": 4.58,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 50,
+        "avg_price": 23.976800000000004,
+        "avg_rating": 4.306000000000001,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 36,
+        "avg_price": 9.554722222222221,
+        "avg_rating": 4.397222222222222,
+        "bestseller_count": 0,
+        "kindle_count": 16
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 59,
+        "avg_price": 11.872372881355936,
+        "avg_rating": 4.638983050847457,
+        "bestseller_count": 1,
+        "kindle_count": 17
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 29,
+        "avg_price": 20.51,
+        "avg_rating": 4.462068965517242,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 41,
+        "avg_price": 30.16560975609756,
+        "avg_rating": 3.7341463414634144,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 7,
+        "avg_price": 39.89714285714285,
+        "avg_rating": 4.514285714285714,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 16,
+        "avg_price": 17.981250000000003,
+        "avg_rating": 4.3125,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 24,
+        "avg_price": 9.8725,
+        "avg_rating": 4.404166666666667,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 24,
+        "avg_price": 7.156666666666667,
+        "avg_rating": 4.3625,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 14,
+        "avg_price": 8.847142857142854,
+        "avg_rating": 4.328571428571428,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 15,
+        "avg_price": 50.50266666666666,
+        "avg_rating": 4.566666666666666,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 17,
+        "avg_price": 8.27705882352941,
+        "avg_rating": 4.247058823529412,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 6,
+        "avg_price": 13.324999999999998,
+        "avg_rating": 4.550000000000001,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 37,
+        "avg_price": 8.572162162162165,
+        "avg_rating": 4.494594594594593,
+        "bestseller_count": 0,
+        "kindle_count": 14
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 26,
+        "avg_price": 14.563846153846157,
+        "avg_rating": 4.407692307692309,
+        "bestseller_count": 2,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 23,
+        "avg_price": 22.82869565217391,
+        "avg_rating": 4.004347826086956,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 21,
+        "avg_price": 12.151428571428571,
+        "avg_rating": 4.685714285714286,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 6,
+        "avg_price": 6.323333333333334,
+        "avg_rating": 4.433333333333334,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 46,
+        "avg_price": 42.98347826086957,
+        "avg_rating": 4.467391304347827,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 5,
+        "avg_price": 6.390000000000001,
+        "avg_rating": 4.38,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 31,
+        "avg_price": 7.712903225806451,
+        "avg_rating": 4.629032258064516,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 19,
+        "avg_price": 8.882631578947368,
+        "avg_rating": 4.542105263157895,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 7,
+        "avg_price": 4.704285714285715,
+        "avg_rating": 4.5285714285714285,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-07-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 53,
+        "avg_price": 11.957924528301886,
+        "avg_rating": 4.160377358490567,
+        "bestseller_count": 7,
+        "kindle_count": 25
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 22,
+        "avg_price": 15.849090909090906,
+        "avg_rating": 4.490909090909091,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 53,
+        "avg_price": 10.864339622641515,
+        "avg_rating": 4.464150943396227,
+        "bestseller_count": 1,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 14,
+        "avg_price": 11.504999999999999,
+        "avg_rating": 4.521428571428571,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 42,
+        "avg_price": 24.549285714285723,
+        "avg_rating": 4.4785714285714295,
+        "bestseller_count": 1,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 26,
+        "avg_price": 8.578846153846154,
+        "avg_rating": 4.430769230769231,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 34,
+        "avg_price": 9.875294117647062,
+        "avg_rating": 4.329411764705881,
+        "bestseller_count": 0,
+        "kindle_count": 11
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 41,
+        "avg_price": 34.460243902439025,
+        "avg_rating": 4.053658536585366,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 40,
+        "avg_price": 21.167750000000005,
+        "avg_rating": 4.275,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 1,
+        "avg_price": 7.99,
+        "avg_rating": 4.8,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 13,
+        "avg_price": 20.38153846153846,
+        "avg_rating": 4.246153846153846,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 16,
+        "avg_price": 11.413749999999999,
+        "avg_rating": 4.33125,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 19,
+        "avg_price": 11.229473684210527,
+        "avg_rating": 4.4,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 24,
+        "avg_price": 7.254166666666667,
+        "avg_rating": 4.3625,
+        "bestseller_count": 0,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 17,
+        "avg_price": 9.000588235294119,
+        "avg_rating": 4.382352941176471,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 18,
+        "avg_price": 45.117777777777775,
+        "avg_rating": 4.638888888888889,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 22,
+        "avg_price": 8.81227272727273,
+        "avg_rating": 4.222727272727273,
+        "bestseller_count": 0,
+        "kindle_count": 10
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 4,
+        "avg_price": 9.1175,
+        "avg_rating": 4.6,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 32,
+        "avg_price": 13.977187500000007,
+        "avg_rating": 4.521875,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 32,
+        "avg_price": 19.138437500000006,
+        "avg_rating": 4.471875000000001,
+        "bestseller_count": 2,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 16,
+        "avg_price": 13.746875,
+        "avg_rating": 3.6624999999999996,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 24,
+        "avg_price": 10.569166666666666,
+        "avg_rating": 4.691666666666666,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 7,
+        "avg_price": 8.132857142857143,
+        "avg_rating": 4.385714285714285,
+        "bestseller_count": 0,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 49,
+        "avg_price": 37.63775510204083,
+        "avg_rating": 4.544897959183674,
+        "bestseller_count": 3,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 6,
+        "avg_price": 10.323333333333332,
+        "avg_rating": 4.3999999999999995,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 24,
+        "avg_price": 12.924166666666665,
+        "avg_rating": 4.7,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 25,
+        "avg_price": 16.813599999999997,
+        "avg_rating": 4.340000000000001,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 10,
+        "avg_price": 9.041,
+        "avg_rating": 4.32,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-06-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 39,
+        "avg_price": 10.812564102564105,
+        "avg_rating": 4.453846153846153,
+        "bestseller_count": 1,
+        "kindle_count": 9
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 42,
+        "avg_price": 13.555000000000001,
+        "avg_rating": 4.559523809523809,
+        "bestseller_count": 2,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 60,
+        "avg_price": 12.049666666666672,
+        "avg_rating": 4.496666666666666,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 10,
+        "avg_price": 12.837,
+        "avg_rating": 4.5200000000000005,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 59,
+        "avg_price": 24.781186440677967,
+        "avg_rating": 4.25593220338983,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 50,
+        "avg_price": 11.785400000000005,
+        "avg_rating": 4.566,
+        "bestseller_count": 0,
+        "kindle_count": 11
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 55,
+        "avg_price": 10.673818181818188,
+        "avg_rating": 4.550909090909091,
+        "bestseller_count": 2,
+        "kindle_count": 15
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 34,
+        "avg_price": 17.50176470588235,
+        "avg_rating": 4.355882352941176,
+        "bestseller_count": 0,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 41,
+        "avg_price": 16.641707317073173,
+        "avg_rating": 4.214634146341463,
+        "bestseller_count": 1,
+        "kindle_count": 5
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 3,
+        "avg_price": 0,
+        "avg_rating": 4.5,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 14,
+        "avg_price": 17.305,
+        "avg_rating": 4.578571428571428,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 22,
+        "avg_price": 11.691818181818183,
+        "avg_rating": 4.409090909090909,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Humor & Entertainment",
+        "book_count": 23,
+        "avg_price": 7.529565217391305,
+        "avg_rating": 4.256521739130434,
+        "bestseller_count": 1,
+        "kindle_count": 10
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "LGBTQ+ eBooks",
+        "book_count": 28,
+        "avg_price": 8.982857142857142,
+        "avg_rating": 4.303571428571429,
+        "bestseller_count": 0,
+        "kindle_count": 12
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Literature & Fiction",
+        "book_count": 18,
+        "avg_price": 11.53777777777778,
+        "avg_rating": 4.333333333333333,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Medical",
+        "book_count": 31,
+        "avg_price": 39.65967741935485,
+        "avg_rating": 4.112903225806452,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Mystery, Thriller & Suspense",
+        "book_count": 16,
+        "avg_price": 9.316875000000001,
+        "avg_rating": 4.23125,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Nonfiction",
+        "book_count": 13,
+        "avg_price": 14.206923076923077,
+        "avg_rating": 4.553846153846154,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Parenting & Relationships",
+        "book_count": 58,
+        "avg_price": 7.774310344827591,
+        "avg_rating": 4.443103448275862,
+        "bestseller_count": 0,
+        "kindle_count": 17
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Politics & Social Sciences",
+        "book_count": 36,
+        "avg_price": 13.30027777777778,
+        "avg_rating": 4.5555555555555545,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Reference",
+        "book_count": 24,
+        "avg_price": 17.5675,
+        "avg_rating": 4.179166666666666,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Religion & Spirituality",
+        "book_count": 18,
+        "avg_price": 7.928333333333332,
+        "avg_rating": 4.71111111111111,
+        "bestseller_count": 2,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Romance",
+        "book_count": 2,
+        "avg_price": 6.49,
+        "avg_rating": 4.3,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Science & Math",
+        "book_count": 41,
+        "avg_price": 32.65902439024391,
+        "avg_rating": 4.487804878048781,
+        "bestseller_count": 3,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Science Fiction & Fantasy",
+        "book_count": 8,
+        "avg_price": 9.01125,
+        "avg_rating": 4.3,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Self-Help",
+        "book_count": 29,
+        "avg_price": 9.744827586206894,
+        "avg_rating": 4.6000000000000005,
+        "bestseller_count": 0,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Sports & Outdoors",
+        "book_count": 29,
+        "avg_price": 13.316551724137934,
+        "avg_rating": 4.596551724137932,
+        "bestseller_count": 0,
+        "kindle_count": 6
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Teen & Young Adult",
+        "book_count": 14,
+        "avg_price": 8.919285714285712,
+        "avg_rating": 4.3428571428571425,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-05-01 00:00:00+03",
+        "category_name": "Travel",
+        "book_count": 58,
+        "avg_price": 13.306206896551727,
+        "avg_rating": 4.379310344827586,
+        "bestseller_count": 3,
+        "kindle_count": 21
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Arts & Photo graphy",
+        "book_count": 29,
+        "avg_price": 11.374827586206894,
+        "avg_rating": 4.4896551724137925,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Biographies & Memoirs",
+        "book_count": 47,
+        "avg_price": 9.992340425531921,
+        "avg_rating": 4.52340425531915,
+        "bestseller_count": 1,
+        "kindle_count": 2
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Business & Money",
+        "book_count": 13,
+        "avg_price": 30.124615384615385,
+        "avg_rating": 4.561538461538461,
+        "bestseller_count": 0,
+        "kindle_count": 1
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Computers & Technology",
+        "book_count": 50,
+        "avg_price": 27.514199999999995,
+        "avg_rating": 4.175999999999999,
+        "bestseller_count": 0,
+        "kindle_count": 7
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Cookbooks, Food & Wine",
+        "book_count": 57,
+        "avg_price": 10.570350877192984,
+        "avg_rating": 4.510526315789474,
+        "bestseller_count": 1,
+        "kindle_count": 13
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Crafts, Hobbies & Home",
+        "book_count": 55,
+        "avg_price": 10.47272727272728,
+        "avg_rating": 4.587272727272727,
+        "bestseller_count": 1,
+        "kindle_count": 12
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Education & Teaching",
+        "book_count": 33,
+        "avg_price": 18.75060606060606,
+        "avg_rating": 4.515151515151516,
+        "bestseller_count": 1,
+        "kindle_count": 4
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Engineering & Transportation",
+        "book_count": 36,
+        "avg_price": 23.993611111111118,
+        "avg_rating": 4.066666666666667,
+        "bestseller_count": 1,
+        "kindle_count": 8
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Foreign Language",
+        "book_count": 2,
+        "avg_price": 0,
+        "avg_rating": 4.4,
+        "bestseller_count": 0,
+        "kindle_count": 0
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "Health, Fitness & Dieting",
+        "book_count": 17,
+        "avg_price": 18.466470588235293,
+        "avg_rating": 4.594117647058823,
+        "bestseller_count": 0,
+        "kindle_count": 3
+    },
+    {
+        "month": "2022-04-01 00:00:00+03",
+        "category_name": "History",
+        "book_count": 14,
+        "avg_price": 14.835714285714285,
+        "avg_rating": 4.5,
+        "bestseller_count": 1,
+        "kindle_count": 1
+    }
+]

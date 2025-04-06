@@ -1,0 +1,205 @@
+[
+    {
+        "category_name": "Mystery, Thriller & Suspense",
+        "count": 6272,
+        "avg_price": 7.600070153061044,
+        "avg_rating": 4.427678571428582,
+        "bestseller_count": 109
+    },
+    {
+        "category_name": "Engineering & Transportation",
+        "count": 6162,
+        "avg_price": 27.385426809477107,
+        "avg_rating": 4.15501460564751,
+        "bestseller_count": 65
+    },
+    {
+        "category_name": "Science & Math",
+        "count": 5955,
+        "avg_price": 32.405835432408786,
+        "avg_rating": 4.451116708648198,
+        "bestseller_count": 185
+    },
+    {
+        "category_name": "Parenting & Relationships",
+        "count": 5900,
+        "avg_price": 10.124938983050537,
+        "avg_rating": 4.454135593220343,
+        "bestseller_count": 71
+    },
+    {
+        "category_name": "Teen & Young Adult",
+        "count": 5738,
+        "avg_price": 7.709682816312288,
+        "avg_rating": 4.52506099686299,
+        "bestseller_count": 148
+    },
+    {
+        "category_name": "Foreign Language",
+        "count": 5724,
+        "avg_price": 8.301635220125672,
+        "avg_rating": 4.280835080363386,
+        "bestseller_count": 34
+    },
+    {
+        "category_name": "Travel",
+        "count": 5526,
+        "avg_price": 9.784082519000762,
+        "avg_rating": 4.267571480275053,
+        "bestseller_count": 99
+    },
+    {
+        "category_name": "LGBTQ+ eBooks",
+        "count": 5517,
+        "avg_price": 5.804544136306468,
+        "avg_rating": 4.425122349102775,
+        "bestseller_count": 15
+    },
+    {
+        "category_name": "Computers & Technology",
+        "count": 5504,
+        "avg_price": 23.65476017441999,
+        "avg_rating": 4.227434593023256,
+        "bestseller_count": 79
+    },
+    {
+        "category_name": "Crafts, Hobbies & Home",
+        "count": 5502,
+        "avg_price": 11.474720101780726,
+        "avg_rating": 4.452162849872776,
+        "bestseller_count": 96
+    },
+    {
+        "category_name": "Biographies & Memoirs",
+        "count": 5405,
+        "avg_price": 11.19335245143335,
+        "avg_rating": 4.44188714153562,
+        "bestseller_count": 137
+    },
+    {
+        "category_name": "Cookbooks, Food & Wine",
+        "count": 5333,
+        "avg_price": 10.665959122445262,
+        "avg_rating": 4.3882430151884515,
+        "bestseller_count": 59
+    },
+    {
+        "category_name": "Education & Teaching",
+        "count": 4986,
+        "avg_price": 24.88735860409153,
+        "avg_rating": 4.356859205776168,
+        "bestseller_count": 53
+    },
+    {
+        "category_name": "Religion & Spirituality",
+        "count": 4970,
+        "avg_price": 9.603762575452809,
+        "avg_rating": 4.625633802816921,
+        "bestseller_count": 129
+    },
+    {
+        "category_name": "Arts & Photo graphy",
+        "count": 4916,
+        "avg_price": 15.139072416599209,
+        "avg_rating": 4.413974776240855,
+        "bestseller_count": 74
+    },
+    {
+        "category_name": "Politics & Social Sciences",
+        "count": 4207,
+        "avg_price": 18.319855003565717,
+        "avg_rating": 4.446327549322569,
+        "bestseller_count": 113
+    },
+    {
+        "category_name": "Literature & Fiction",
+        "count": 4152,
+        "avg_price": 7.410291425819562,
+        "avg_rating": 4.470640655105996,
+        "bestseller_count": 186
+    },
+    {
+        "category_name": "Humor & Entertainment",
+        "count": 4095,
+        "avg_price": 7.762551892551753,
+        "avg_rating": 4.4033455433455435,
+        "bestseller_count": 28
+    },
+    {
+        "category_name": "Science Fiction & Fantasy",
+        "count": 3995,
+        "avg_price": 6.730160200250823,
+        "avg_rating": 4.535219023779769,
+        "bestseller_count": 30
+    },
+    {
+        "category_name": "Self-Help",
+        "count": 3493,
+        "avg_price": 10.058273690237465,
+        "avg_rating": 4.528571428571427,
+        "bestseller_count": 27
+    },
+    {
+        "category_name": "Reference",
+        "count": 3388,
+        "avg_price": 17.122494096812403,
+        "avg_rating": 4.330371900826442,
+        "bestseller_count": 48
+    },
+    {
+        "category_name": "Sports & Outdoors",
+        "count": 3206,
+        "avg_price": 11.764335620711023,
+        "avg_rating": 4.434684965689328,
+        "bestseller_count": 14
+    },
+    {
+        "category_name": "Medical",
+        "count": 2583,
+        "avg_price": 39.66734030197468,
+        "avg_rating": 4.311924119241185,
+        "bestseller_count": 14
+    },
+    {
+        "category_name": "Romance",
+        "count": 2214,
+        "avg_price": 5.329042457091141,
+        "avg_rating": 4.47452574525745,
+        "bestseller_count": 23
+    },
+    {
+        "category_name": "History",
+        "count": 2045,
+        "avg_price": 12.269721271393513,
+        "avg_rating": 4.4351589242053775,
+        "bestseller_count": 63
+    },
+    {
+        "category_name": "Health, Fitness & Dieting",
+        "count": 1585,
+        "avg_price": 18.67629652996834,
+        "avg_rating": 4.512365930599365,
+        "bestseller_count": 45
+    },
+    {
+        "category_name": "Business & Money",
+        "count": 1257,
+        "avg_price": 26.91143993635633,
+        "avg_rating": 4.471758154335717,
+        "bestseller_count": 55
+    },
+    {
+        "category_name": "Nonfiction",
+        "count": 890,
+        "avg_price": 13.971820224719009,
+        "avg_rating": 4.558314606741574,
+        "bestseller_count": 45
+    },
+    {
+        "category_name": "Comics",
+        "count": 478,
+        "avg_price": 11.369163179916326,
+        "avg_rating": 4.57928870292887,
+        "bestseller_count": 4
+    }
+]
